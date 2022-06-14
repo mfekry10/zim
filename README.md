@@ -1,5 +1,3 @@
 # zim
 
-test
-
-hello world
+website link : https://zim-design.netlify.com/
